@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+main{
+    height: 68vh;
+    width: 100%;
+    background-color: cornsilk;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: crimson;
+}
+
+.btn{
+    height: 52px;
+    width: 200px;
+    border-radius: 19px;
+}
+
+.btn-grp{
+    margin: 20px;
+}
+
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.orange{
+    background-color: orangered;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(204, 154, 154);
+
+    margin: 40px;
+}
